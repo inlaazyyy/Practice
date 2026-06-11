@@ -24,11 +24,7 @@
 
 1. Скачать проект с GitHub:
 Написать в командной строке:
-<<<<<<< HEAD
 `git clone https://github.com/inlaazyyy/special-journey`
-=======
-`git clone https://github.com/imlaazyyy/special-journey`
->>>>>>> 7660da0f2eee4962c71e428c98801af5f0865dda
 `cd special-journey`
 
 2. Установить библиотеки:
